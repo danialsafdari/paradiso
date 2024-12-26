@@ -4,10 +4,10 @@
 }
 
 html , body {
-    height: 100%;
-    /* border: blue solid 1px; */
-    /* min-height: 100%; */
-    box-sizing: border-box;
+    /* height: 100%;
+     border: blue solid 1px; 
+     min-height: 100%; 
+    box-sizing: border-box; */
 }
 body{
     background-image: linear-gradient(rgb(156, 155, 155),rgb(226, 226, 223));
